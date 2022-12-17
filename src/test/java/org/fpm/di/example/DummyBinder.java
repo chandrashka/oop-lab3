@@ -1,10 +1,10 @@
 package org.fpm.di.example;
+
 import org.fpm.di.Binder;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 import java.util.Arrays;
-import java.util.HashMap;
 import java.util.Map;
 
 public class DummyBinder implements Binder {
